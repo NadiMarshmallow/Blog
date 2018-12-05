@@ -30,3 +30,17 @@
     transform: rotate(360deg);
   }
 }
+
+.dropdown-item:focus, .dropdown-item:hover {
+  color: #16181b;
+  text-decoration: none;
+  background-color: #007bf7 !important;
+}
+
+.image{width: 100px;
+height: 100px;
+}
+
+.menu {background-color: black;
+align-content: center;}
+
